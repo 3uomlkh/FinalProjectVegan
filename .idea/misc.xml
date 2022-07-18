@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/User/won/AndroidStudioProjects/FinalProjectVegan-Pear/FinalProjectVegan-Pear/app/src/main/res/layout/activity_main.xml" value="0.302536231884058" />
+        <entry key="..\:/User/won/AndroidStudioProjects/FinalProjectVegan-Pear/FinalProjectVegan-Pear/app/src/main/res/layout/bookmark_item.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/won/AndroidStudioProjects/FinalProjectVegan-Pear/FinalProjectVegan-Pear/app/src/main/res/layout/activity_bookmark.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/won/AndroidStudioProjects/FinalProjectVegan-Pear/FinalProjectVegan-Pear/app/src/main/res/layout/activity_item_detail.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/won/AndroidStudioProjects/FinalProjectVegan-Pear/FinalProjectVegan-Pear/app/src/main/res/layout/bookmark_item.xml" value="0.32608695652173914" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.16757246376811594" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.284698486328125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26621160409556316" />
+        <entry key="app/src/main/res/layout/activity_ocr.xml" value="0.12234042553191489" />
+        <entry key="app/src/main/res/layout/activity_ocr_image_view.xml" value="0.12234042553191489" />
+        <entry key="app/src/main/res/layout/activity_ocr_popup.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.24731903076171877" />
+        <entry key="app/src/main/res/layout/activity_register_step1.xml" value="0.21213836669921876" />
+        <entry key="app/src/main/res/layout/activity_register_step2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register_step3.xml" value="0.16757246376811594" />
+        <entry key="app/src/main/res/layout/activity_register_step4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_title.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_bookmark.xml" value="0.17391304347826086" />
+        <entry key="app/src/main/res/layout/fragment_frag_home_feed.xml" value="0.17391304347826086" />
+        <entry key="app/src/main/res/layout/fragment_frag_map.xml" value="0.17391304347826086" />
+        <entry key="app/src/main/res/layout/fragment_frag_mypage.xml" value="0.17391304347826086" />
+        <entry key="app/src/main/res/layout/fragment_frag_ocr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_ocr_popup.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2515625" />
+        <entry key="app/src/main/res/menu/toolbar_menu.xml" value="0.2515625" />
+        <entry key="app/src/main/res/xml/external.xml" value="0.13385416666666666" />
+        <entry key="app/src/main/res/xml/file_paths.xml" value="0.12234042553191489" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
